@@ -1,17 +1,15 @@
-# <pre><code>┌─────────────────────────────────────────────┐
-│  12britz@profile ~ $ whoami                    │
-└─────────────────────────────────────────────┘</code></pre>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=50FA7B&center=true&vCenter=true&width=435&lines=Britz;DevOps+Enthusiast;Terminal+Addict;AI+Explorer" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=12britz&label=Profile+Views&color=0e75b5&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/12britz?label=Followers&style=flat-square&color=ff6b6b" />
-</p>
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=12britz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=12britz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🎮 Console Output
 
@@ -93,28 +91,3 @@ $ ./fetch-skills.sh
 </p>
 
 ---
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/12britz">
-    <img src="https://img.shields.io/badge/GitHub-12britz-white?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 📜 Footer
-
-<p align="center">
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=12britz&label=Visits&color=bd93f9&style=plastic" />
-  </sub>
-</p>
-
-<pre><code>
-➜  12britz ~ $ echo "Thanks for visiting! 🎉"
-Thanks for visiting! 🎉
-
-➜  12britz ~ $ █
-</code></pre>
