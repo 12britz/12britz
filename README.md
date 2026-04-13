@@ -26,10 +26,10 @@ Motto:    "It works on my machine ¯\_(ツ)_/¯"
 ```
 $ ./fetch-skills.sh
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[████████████████████] 100% DevOps    k8s, docker, kafka, terraform
-[██████████████       ] 80%  AI/LLM   ollama, langchain, openai
-[████████████         ] 70%  Langs    python, ts, rust, go
-[███████████          ] 60%  Terminal tui, ncurses, system
+[████████████████████] 100% DevOps    k8s, docker, kafka
+[██████████████       ] 80%  AI/LLM   ollama, langchain
+[████████████         ] 70%  Langs    python, ts, rust
+[███████████          ] 60%  Terminal tui, ncurses
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -50,7 +50,7 @@ $ ./fetch-skills.sh
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,golang,ollama&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,ollama&theme=dark" />
 </p>
 
 ---
