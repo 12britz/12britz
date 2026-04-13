@@ -104,26 +104,6 @@ $ ./fetch-skills.sh
 
 ---
 
-## 👾 ASCII Art Corner
-
-```
-    _
-   ( )
-  _| |_
- (_   _)
-   | |
-   | |
-  _| |_
- (_   _)
-   | |
-   | |
-  _| |_
- (_   _)
-   |_|   // the terminal never sleeps
-```
-
----
-
 ## 📜 Footer
 
 <p align="center">
