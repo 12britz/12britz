@@ -68,26 +68,14 @@ $ ./fetch-skills.sh
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12britz&theme=dracula&row=1&column=6&margin-w=10&no-bg=true" />
-</p>
 
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/12britz">
-    <img src="https://img.shields.io/badge/GitHub-12britz-white?style=for-the-badge&logo=github" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=12britz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=12britz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <sub>Thanks for visiting! 🎉</sub>
-</p>
-
-<pre><code>➜  12britz ~ $ █</code></pre>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
