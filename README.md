@@ -1,31 +1,13 @@
-# 👋 Hey, I'm Britz!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12britz/12britz/main/user.svg">
+  <img alt="12britz's GitHub Profile README" src="https://raw.githubusercontent.com/12britz/12britz/main/user_light.svg">
+</picture>
 
-<pre><code>
-    .,,,.,:.        
-    .,..:??.        
-     ..,,;;:..      
-   ....:*?+**:..    
-  .....+S??S**+;.   
-   .....,,.::;++:.  
-  .. ,%*.,**,,::*.  
- ..  ,*S.%%#*..,?:  
-.,.  .:S.S;%*...+*  
-..   .:S.S;#*....+. 
-.... .:%,%;@+.  .+: 
-     .:S,%;@;.  .:, 
-     ,*S:%S@,.   .:.
-     ,%%;;?+..   .:.
-     .........    ..
-     .,::+*...    ..
-      ..,.:..,.   ..
-       ........    ,
-      ......,:.    .
-      .... ..,.   ..
-</code></pre>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=50FA7B&center=true&vCenter=true&width=400&lines=DevOps+Enthusiast;Terminal+Addict;AI+Explorer" alt="typing" />
-</p>
+## 👋 Hey, I'm Britz!
+
+> *"It works on my machine ¯\\_(ツ)_/¯"*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=12britz&label=Profile+Views&color=bd93f9&style=flat-square" />
@@ -34,27 +16,14 @@
 
 ---
 
-## 🎮 About Me
+## 🛠️ Tech Stack
 
-```
-$ cat about-me.txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Name:     Britz
-Location: 📍 India (IST)
-Status:   🔥 Online
-Motto:    "It works on my machine ¯\_(ツ)_/¯"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-```
-$ ./fetch-skills.sh
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[████████████████████] 100% DevOps    k8s, docker, kafka
-[██████████████       ] 80%  AI/LLM   ollama, langchain
-[████████████         ] 70%  Langs    python, ts, rust
-[███████████          ] 60%  Terminal tui, ncurses
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+| Category | Technologies |
+|----------|-------------|
+| **DevOps** | Kubernetes, Docker, Kafka, Terraform |
+| **AI/LLM** | Ollama, LangChain, OpenAI |
+| **Languages** | Python, TypeScript, Rust, Go |
+| **Terminal** | TUI, ncurses, system monitoring |
 
 ---
 
@@ -70,14 +39,6 @@ $ ./fetch-skills.sh
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,ollama&theme=dark" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,20 +46,18 @@ $ ./fetch-skills.sh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12britz&layout=donut&theme=dracula&border_color=44475a&border_radius=10&hide_title=true" height="180" />
 </p>
 
+---
+
+## 🔗 Connect
+
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=12britz&theme=dracula&bg_color=282a36&color=50fa7b&line=ff79c6&point=f1fa8c&area=true" />
+  <a href="https://github.com/12britz">
+    <img src="https://img.shields.io/badge/GitHub-12britz-white?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=12britz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=12britz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=12britz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <sub>Thanks for visiting! 🎉</sub>
+</p>
