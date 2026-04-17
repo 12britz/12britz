@@ -1,27 +1,5 @@
 # 👋 Hey, I'm Britz!
 
-<pre><code>
-    .,,,.,:.        
-    .,..:??.        
-     ..,,;;:..      
-   ....:*?+**:..    
-  .....+S??S**+;.   
-   .....,,.::;++:.  
-  .. ,%*.,**,,::*.  
- ..  ,*S.%%#*..,?:  
-.,.  .:S.S;%*...+*  
-..   .:S.S;#*....+. 
-.... .:%,%;@+.  .+: 
-     .:S,%;@;.  .:, 
-     ,*S:%S@,.   .:.
-     ,%%;;?+..   .:.
-     .........    ..
-     .,::+*...    ..
-      ..,.:..,.   ..
-       ........    ,
-      ......,:.    .
-      .... ..,.   ..
-</code></pre>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=50FA7B&center=true&vCenter=true&width=400&lines=DevOps+Enthusiast;Terminal+Addict;AI+Explorer" alt="typing" />
