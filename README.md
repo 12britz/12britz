@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Britz!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=50FA7B&center=true&vCenter=true&width=400&lines=DevOps+Engineer;Terminal+Enthusiast;AI+Explorer" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=50FA7B&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Terminal+Enthusiast;AI+Explorer;k8s+%7C+Docker+%7C+Kafka;It+works+on+my+machine+%C2%AF%5C_(ツ)_%2F%C2%AF" alt="typing" />
 </p>
 
 <p align="center">
@@ -18,9 +18,10 @@
 ```console
 $ cat about-me.txt
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Name:     Britz ━━━━━━━━━━━━━━━━━━━━━━━━━
-Location: 📍 India (IST) ━━━━━━━━━━━━━━━━━
-Status:   🔥 Online ━━━━━━━━━━━━━━━━━━━━
+Name:     Britz
+Location: 📍 India (IST)
+Status:   🔥 Online
+Mood:     ☕ Caffeinated
 Motto:    "It works on my machine ¯\_(ツ)_/¯"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -29,11 +30,19 @@ Motto:    "It works on my machine ¯\_(ツ)_/¯"
 $ ./fetch-skills.sh
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [████████████████████] 100% DevOps    k8s, docker, kafka
-[██████████████       ] 80%  AI/LLM   ollama, langchain
-[████████████         ] 70%  Langs    python, ts, rust
-[███████████          ] 60%  Terminal tui, ncurses
+[██████████████       ]  80% AI/LLM   ollama, langchain
+[████████████         ]  70% Langs    python, ts, rust
+[███████████          ]  60% Terminal tui, ncurses
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## 🔭 Currently Working On
+
+- 🎨 **[sysview](https://github.com/12britz/sysview)** — Beautiful terminal system monitor in TypeScript
+- 🤖 **[loadpilot](https://github.com/12britz/loadpilot)** — K8s pod autoscaler powered by Ollama
+- 🪄 **[pix](https://github.com/12britz/pix)** — AI-driven dependency solver
 
 ---
 
@@ -52,7 +61,15 @@ $ ./fetch-skills.sh
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,ollama,git,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,git,bash,linux,vim&theme=dark" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=12britz&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
@@ -60,12 +77,20 @@ $ ./fetch-skills.sh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12britz&show_icons=true&theme=dracula&border_color=44475a&border_radius=10&count_private=true&hide_rank=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12britz&show_icons=true&theme=dracula&border_color=44475a&border_radius=10&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12britz&layout=donut&theme=dracula&border_color=44475a&border_radius=10&hide_title=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=12britz&theme=dracula&bg_color=282a36&color=50fa7b&line=ff79c6&point=f1fa8c&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=12britz&theme=dracula&border=44475a&border_radius=10" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=12britz&theme=dracula&bg_color=282a36&color=50fa7b&line=ff79c6&point=f1fa8c&area=true&hide_border=true" />
 </p>
 
 ---
@@ -73,11 +98,10 @@ $ ./fetch-skills.sh
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://twitter.com/12britz"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/12britz"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/12britz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/12britz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
-<p align="center">
-  <em>Built with ☕ and curiosity</em>
-</p>
+
+<p align="center"><em>Built with ☕ and curiosity</em></p>
