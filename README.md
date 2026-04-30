@@ -1,19 +1,20 @@
-# 👋 Hey, I'm Britz!
+# <pre><code>➜ 12britz</code></pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=50FA7B&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Terminal+Enthusiast;AI+Explorer;k8s+%7C+Docker+%7C+Kafka;It+works+on+my+machine+%C2%AF%5C_(ツ)_%2F%C2%AF" alt="typing" />
+  <i>"It works on my machine ¯\_(ツ)_/¯"</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=12britz&label=Profile+Views&color=bd93f9&style=flat-square" />
   <img src="https://img.shields.io/github/followers/12britz?label=Followers&style=flat-square&color=ff79c6" />
   <img src="https://img.shields.io/github/stars/12britz?color=50fa7b&style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/12britz/12britz?color=8be9fd&style=flat-square" />
 </p>
 
 ---
 
-## 🎮 About Me
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##  About Me
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```console
 $ cat about-me.txt
@@ -38,27 +39,29 @@ $ ./fetch-skills.sh
 
 ---
 
-## 🔭 Currently Working On
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##  Projects
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🎨 **[sysview](https://github.com/12britz/sysview)** — Beautiful terminal system monitor in TypeScript
-- 🤖 **[loadpilot](https://github.com/12britz/loadpilot)** — K8s pod autoscaler powered by Ollama
-- 🪄 **[pix](https://github.com/12britz/pix)** — AI-driven dependency solver
+| ★ | Repo | Description | Language |
+|---|------|-------------|----------|
+| 13 | [zcurl](https://github.com/12britz/zcurl) | Beautifully colored curl alternative with stunning output | JavaScript |
+| 5 | [sysview](https://github.com/12britz/sysview) | Terminal system monitor — CPU, memory, disk, ports, network | TypeScript |
+| 3 | [llmring](https://github.com/12britz/llmring) | TypeScript LLM framework | TypeScript |
+| 2 | [awesome-ai-gateways](https://github.com/12britz/awesome-ai-gateways) | Curated list of AI gateway tools & resources | — |
+| 2 | [pix](https://github.com/12britz/pix) | CLI dependency solver using local AI (Ollama) | Python |
+| 1 | [loadpilot](https://github.com/12britz/loadpilot) | Kubernetes pod config optimizer with JMeter + Ollama | Python |
+| — | [kafka-look](https://github.com/12britz/kafka-look) | TUI for browsing Kafka messages | Python |
+| — | [git-flex](https://github.com/12britz/git-flex) | Show off coding stats in style with terminal cards | — |
+| — | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 139 AI desktop automation projects | — |
+| — | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | AI side project ideas & templates | — |
+| — | [awesome-tui](https://github.com/12britz/awesome-tui) | Browse awesome lists in the terminal | Python |
 
 ---
 
-## 🚀 Featured Projects
-
-| ⭐ | Project | Description | Lang |
-|:--:|:--------|:------------|:----:|
-| 4 | [sysview](https://github.com/12britz/sysview) | 🎨 Beautiful terminal system monitor | TypeScript |
-| 2 | [awesome-ai-gateways](https://github.com/12britz/awesome-ai-gateways) | 📚 Curated AI gateway tools | — |
-| 1 | [loadpilot](https://github.com/12britz/loadpilot) | 🤖 K8s pod optimizer with Ollama | Python |
-| 1 | [pix](https://github.com/12britz/pix) | 🪄 AI dependency solver | Python |
-| — | [kafka-look](https://github.com/12britz/kafka-look) | 📡 Kafka TUI client | Python |
-
----
-
-## 🛠 Tech Stack
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##  Tech Stack
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,python,ts,rust,git,bash,linux,vim&theme=dark" />
@@ -66,7 +69,14 @@ $ ./fetch-skills.sh
 
 ---
 
-## 🏆 Trophies
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##  Stats
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+  <img height="160" alt="12britz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=12britz&show_icons=true&theme=dracula&border_color=44475a&border_radius=8&count_private=true" />
+  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12britz&layout=compact&theme=dracula&border_color=44475a&border_radius=8" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=12britz&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" />
@@ -74,34 +84,21 @@ $ ./fetch-skills.sh
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12britz&show_icons=true&theme=dracula&border_color=44475a&border_radius=10&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12britz&layout=donut&theme=dracula&border_color=44475a&border_radius=10&hide_title=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=12britz&theme=dracula&border=44475a&border_radius=10" />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=12britz&theme=dracula&bg_color=282a36&color=50fa7b&line=ff79c6&point=f1fa8c&area=true&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##  Connect
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <a href="https://twitter.com/12britz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/12britz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/12britz"><img src="https://img.shields.io/github/followers/12britz?label=Follow&style=social" /></a>
+  <a href="https://github.com/12britz?tab=stars"><img src="https://img.shields.io/github/stars/12britz?label=Stars&style=social" /></a>
 </p>
 
 ---
 
-<p align="center"><em>Built with ☕ and curiosity</em></p>
+<p align="center">
+  <sub>📍 India · ⏱️ IST (Asia/Kolkata)</sub>
+</p>
+
+<pre><code>➜  _</code></pre>
