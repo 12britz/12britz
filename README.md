@@ -45,14 +45,16 @@ $ ./fetch-skills.sh
 
 | ★ | Repo | Description | Language |
 |---|------|-------------|----------|
-| 13 | [zcurl](https://github.com/12britz/zcurl) | Beautifully colored curl alternative with stunning output | JavaScript |
+| 27 | [awesome-free-models](https://github.com/12britz/awesome-free-models) | Curated list of free AI models, APIs, and tools — zero cost | — |
+| 14 | [zcurl](https://github.com/12britz/zcurl) | Beautifully colored curl alternative with stunning output | JavaScript |
 | 5 | [sysview](https://github.com/12britz/sysview) | Terminal system monitor — CPU, memory, disk, ports, network | TypeScript |
 | 3 | [llmring](https://github.com/12britz/llmring) | TypeScript LLM framework | TypeScript |
 | 2 | [awesome-ai-gateways](https://github.com/12britz/awesome-ai-gateways) | Curated list of AI gateway tools & resources | — |
 | 2 | [pix](https://github.com/12britz/pix) | CLI dependency solver using local AI (Ollama) | Python |
 | 1 | [loadpilot](https://github.com/12britz/loadpilot) | Kubernetes pod config optimizer with JMeter + Ollama | Python |
+| — | [zgit](https://github.com/12britz/zgit) | Tokyo Night-themed CLI wrapper for Git with structured visual panels | JavaScript |
 | — | [kafka-look](https://github.com/12britz/kafka-look) | TUI for browsing Kafka messages | Python |
-| — | [git-flex](https://github.com/12britz/git-flex) | Show off coding stats in style with terminal cards | — |
+| — | [git-flex](https://github.com/12britz/git-flex) | Show off coding stats in style with terminal cards | JavaScript |
 | — | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 139 AI desktop automation projects | — |
 | — | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | AI side project ideas & templates | — |
 | — | [awesome-tui](https://github.com/12britz/awesome-tui) | Browse awesome lists in the terminal | Python |
