@@ -43,16 +43,9 @@
 | — | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | 𝙰𝙸 𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜 & 𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎𝚜 | — |
 | — | [awesome-tui](https://github.com/12britz/awesome-tui) | 𝙱𝚛𝚘𝚠𝚜𝚎 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚕𝚒𝚜𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<p align="center">
-  <img height="160" alt="12britz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=12britz&show_icons=true&theme=dracula&border_color=44475a&border_radius=8&count_private=true" />
-  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12britz&layout=compact&theme=dracula&border_color=44475a&border_radius=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12britz&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
+![Metrics](https://metrics.lecoq.io/12britz?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=Asia%2FKolkata)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
