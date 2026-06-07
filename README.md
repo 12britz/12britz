@@ -8,7 +8,7 @@
 ![followers](https://img.shields.io/github/followers/12britz?label=Followers&style=flat-square&color=ff79c6)
 ![stars](https://img.shields.io/github/stars/12britz?color=50fa7b&style=flat-square)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-06`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-06-07`
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙳𝚎𝚟𝙾𝚙𝚜 — 𝚔𝟾𝚜, 𝚍𝚘𝚌𝚔𝚎𝚛, 𝚔𝚊𝚏𝚔𝚊
@@ -29,7 +29,7 @@
 
 | ★ | 𝚁𝚎𝚙𝚘 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐 |
 |---|------|-------------|------|
-| 27 | [awesome-free-models](https://github.com/12britz/awesome-free-models) | 𝙲𝚞𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚏𝚛𝚎𝚎 𝙰𝙸 𝚖𝚘𝚍𝚎𝚕𝚜, 𝙰𝙿𝙸𝚜, 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 | — |
+| 84 | [awesome-free-models](https://github.com/12britz/awesome-free-models) | 𝙲𝚞𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚏𝚛𝚎𝚎 𝙰𝙸 𝚖𝚘𝚍𝚎𝚕𝚜, 𝙰𝙿𝙸𝚜, 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 | — |
 | 14 | [zcurl](https://github.com/12britz/zcurl) | 𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕𝚕𝚢 𝚌𝚘𝚕𝚘𝚛𝚎𝚍 𝚌𝚞𝚛𝚕 𝚊𝚕𝚝𝚎𝚛𝚗𝚊𝚝𝚒𝚟𝚎 𝚠𝚒𝚝𝚑 𝚋𝚘𝚡-𝚜𝚝𝚢𝚕𝚎 𝚘𝚞𝚝𝚙𝚞𝚝 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
 | 5 | [sysview](https://github.com/12britz/sysview) | 𝚃𝚎𝚛𝚖𝚒𝚗𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖 𝚖𝚘𝚗𝚒𝚝𝚘𝚛 — 𝙲𝙿𝚄, 𝚖𝚎𝚖𝚘𝚛𝚢, 𝚍𝚒𝚜𝚔, 𝚙𝚘𝚛𝚝𝚜, 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 |
 | 3 | [llmring](https://github.com/12britz/llmring) | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 𝙻𝙻𝙼 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 |
@@ -37,11 +37,11 @@
 | 2 | [pix](https://github.com/12britz/pix) | 𝙲𝙻𝙸 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚢 𝚜𝚘𝚕𝚟𝚎𝚛 𝚞𝚜𝚒𝚗𝚐 𝚕𝚘𝚌𝚊𝚕 𝙰𝙸 (𝙾𝚕𝚕𝚊𝚖𝚊) | 𝙿𝚢𝚝𝚑𝚘𝚗 |
 | 1 | [loadpilot](https://github.com/12britz/loadpilot) | 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜 𝚙𝚘𝚍 𝚌𝚘𝚗𝚏𝚒𝚐 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚎𝚛 𝚠𝚒𝚝𝚑 𝙹𝙼𝚎𝚝𝚎𝚛 + 𝙾𝚕𝚕𝚊𝚖𝚊 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
 | 0 | [zgit](https://github.com/12britz/zgit) | 𝚃𝚘𝚔𝚢𝚘 𝙽𝚒𝚐𝚑𝚝-𝚝𝚑𝚎𝚖𝚎𝚍 𝙲𝙻𝙸 𝚠𝚛𝚊𝚙𝚙𝚎𝚛 𝚏𝚘𝚛 𝙶𝚒𝚝 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
-| — | [kafka-look](https://github.com/12britz/kafka-look) | 𝚃𝚄𝙸 𝚏𝚘𝚛 𝚋𝚛𝚘𝚠𝚜𝚒𝚗𝚐 𝙺𝚊𝚏𝚔𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
-| — | [git-flex](https://github.com/12britz/git-flex) | 𝚂𝚑𝚘𝚠 𝚘𝚏𝚏 𝚢𝚘𝚞𝚛 𝚌𝚘𝚍𝚒𝚗𝚐 𝚜𝚝𝚊𝚝𝚜 𝚒𝚗 𝚜𝚝𝚢𝚕𝚎 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
-| — | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 𝟷𝟹𝟿 𝙰𝙸 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | — |
-| — | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | 𝙰𝙸 𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜 & 𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎𝚜 | — |
-| — | [awesome-tui](https://github.com/12britz/awesome-tui) | 𝙱𝚛𝚘𝚠𝚜𝚎 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚕𝚒𝚜𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
+| 0 | [kafka-look](https://github.com/12britz/kafka-look) | 𝚃𝚄𝙸 𝚏𝚘𝚛 𝚋𝚛𝚘𝚠𝚜𝚒𝚗𝚐 𝙺𝚊𝚏𝚔𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
+| 0 | [git-flex](https://github.com/12britz/git-flex) | 𝚂𝚑𝚘𝚠 𝚘𝚏𝚏 𝚢𝚘𝚞𝚛 𝚌𝚘𝚍𝚒𝚗𝚐 𝚜𝚝𝚊𝚝𝚜 𝚒𝚗 𝚜𝚝𝚢𝚕𝚎 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
+| 7 | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 𝟷𝟹𝟿 𝙰𝙸 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | — |
+| 0 | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | 𝙰𝙸 𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜 & 𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎𝚜 | — |
+| 0 | [awesome-tui](https://github.com/12britz/awesome-tui) | 𝙱𝚛𝚘𝚠𝚜𝚎 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚕𝚒𝚜𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
