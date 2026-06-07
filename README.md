@@ -39,9 +39,10 @@
 | 0 | [zgit](https://github.com/12britz/zgit) | 𝚃𝚘𝚔𝚢𝚘 𝙽𝚒𝚐𝚑𝚝-𝚝𝚑𝚎𝚖𝚎𝚍 𝙲𝙻𝙸 𝚠𝚛𝚊𝚙𝚙𝚎𝚛 𝚏𝚘𝚛 𝙶𝚒𝚝 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
 | 0 | [kafka-look](https://github.com/12britz/kafka-look) | 𝚃𝚄𝙸 𝚏𝚘𝚛 𝚋𝚛𝚘𝚠𝚜𝚒𝚗𝚐 𝙺𝚊𝚏𝚔𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
 | 0 | [git-flex](https://github.com/12britz/git-flex) | 𝚂𝚑𝚘𝚠 𝚘𝚏𝚏 𝚢𝚘𝚞𝚛 𝚌𝚘𝚍𝚒𝚗𝚐 𝚜𝚝𝚊𝚝𝚜 𝚒𝚗 𝚜𝚝𝚢𝚕𝚎 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
-| 7 | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 𝟷𝟹𝟿 𝙰𝙸 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | — |
+| 0 | [awesome-computer-use](https://github.com/12britz/awesome-computer-use) | 𝟷𝟹𝟿 𝙰𝙸 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | — |
 | 0 | [awesome-ai-sideprojects](https://github.com/12britz/awesome-ai-sideprojects) | 𝙰𝙸 𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜 & 𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎𝚜 | — |
 | 0 | [awesome-tui](https://github.com/12britz/awesome-tui) | 𝙱𝚛𝚘𝚠𝚜𝚎 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚕𝚒𝚜𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕 | 𝙿𝚢𝚝𝚑𝚘𝚗 |
+| 0 | [plight](https://github.com/12britz/plight) | 𝙿𝚛𝚎𝚝𝚝𝚢 𝙻𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 𝙲𝙻𝙸 𝚝𝚘𝚘𝚕 𝚠𝚒𝚝𝚑 𝚜𝚝𝚞𝚗𝚗𝚒𝚗𝚐 𝚋𝚘𝚡-𝚜𝚝𝚢𝚕𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕 𝚘𝚞𝚝𝚙𝚞𝚝 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
