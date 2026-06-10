@@ -8,7 +8,7 @@
 ![followers](https://img.shields.io/github/followers/12britz?label=Followers&style=flat-square&color=ff79c6)
 ![stars](https://img.shields.io/github/stars/12britz?color=50fa7b&style=flat-square)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-06-07`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-06-10`
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙳𝚎𝚟𝙾𝚙𝚜 — 𝚔𝟾𝚜, 𝚍𝚘𝚌𝚔𝚎𝚛, 𝚔𝚊𝚏𝚔𝚊
@@ -29,7 +29,7 @@
 
 | ★ | 𝚁𝚎𝚙𝚘 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐 |
 |---|------|-------------|------|
-| 84 | [awesome-free-models](https://github.com/12britz/awesome-free-models) | 𝙲𝚞𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚏𝚛𝚎𝚎 𝙰𝙸 𝚖𝚘𝚍𝚎𝚕𝚜, 𝙰𝙿𝙸𝚜, 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 | — |
+| 164 | [awesome-free-models](https://github.com/12britz/awesome-free-models) | 𝙲𝚞𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚏𝚛𝚎𝚎 𝙰𝙸 𝚖𝚘𝚍𝚎𝚕𝚜, 𝙰𝙿𝙸𝚜, 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 | — |
 | 14 | [zcurl](https://github.com/12britz/zcurl) | 𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕𝚕𝚢 𝚌𝚘𝚕𝚘𝚛𝚎𝚍 𝚌𝚞𝚛𝚕 𝚊𝚕𝚝𝚎𝚛𝚗𝚊𝚝𝚒𝚟𝚎 𝚠𝚒𝚝𝚑 𝚋𝚘𝚡-𝚜𝚝𝚢𝚕𝚎 𝚘𝚞𝚝𝚙𝚞𝚝 | 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 |
 | 5 | [sysview](https://github.com/12britz/sysview) | 𝚃𝚎𝚛𝚖𝚒𝚗𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖 𝚖𝚘𝚗𝚒𝚝𝚘𝚛 — 𝙲𝙿𝚄, 𝚖𝚎𝚖𝚘𝚛𝚢, 𝚍𝚒𝚜𝚔, 𝚙𝚘𝚛𝚝𝚜, 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 |
 | 3 | [llmring](https://github.com/12britz/llmring) | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 𝙻𝙻𝙼 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 | 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 |
