@@ -1,4 +1,4 @@
-# <pre><code>➜ 12britz</code></pre>
+<img width="1588" height="678" alt="image" src="https://github.com/user-attachments/assets/9edb0a77-72c7-47bb-b103-85f70f6244e8" /># <pre><code>➜ 12britz</code></pre>
 
 <p align="center">
   <i>"𝙸𝚝 𝚠𝚘𝚛𝚔𝚜 𝚘𝚗 𝚖𝚢 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 ¯\_(ツ)_/¯"</i>
@@ -9,7 +9,8 @@
 ![stars](https://img.shields.io/github/stars/12britz?color=50fa7b&style=flat-square)
 
 
-![Uploading image.png…]()
+<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/0fd4f4bc-8a15-45d1-9992-630bb0ca305c" />
+
 
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-06-24`
