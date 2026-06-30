@@ -9,9 +9,6 @@
 ![stars](https://img.shields.io/github/stars/12britz?color=50fa7b&style=flat-square)
 
 
-<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/0fd4f4bc-8a15-45d1-9992-630bb0ca305c" />
-
-
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-06-24`
 
